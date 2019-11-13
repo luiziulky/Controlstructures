@@ -6,4 +6,4 @@ elif shift == 'v':
 elif shift == 'n':
     print('GOOD NIGHT!!!')
 else:
-    print('INVALID SEX.')
+    print('INVALID OPTION.')
